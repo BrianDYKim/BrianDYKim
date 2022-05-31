@@ -4,6 +4,10 @@
 
 Hello, I'm (junior) Backend Developer. I'm just enjoying studying new technologies about developing server application and operating server.
 
+### ⭐️ My Motto
+
+1️⃣ GRIT is the only way to be GREAT
+
 ### 🔥 Careers
 
 👉 Graduated at Pohang Yeoungsin high-school (2014~2017)

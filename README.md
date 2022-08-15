@@ -1,6 +1,6 @@
 ### ⭐️ Introduce
 
-Hello, I'm (junior) Backend Developer. I'm just enjoying studying new technologies about developing server application and operating server.
+Hello, I'm Backend Developer. I'm just enjoying studying new technologies about developing server application and operating server.
 
 ### ⭐️ My Motto
 

@@ -40,7 +40,9 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=black"> 
 
-<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black">
+<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black"> 
+
+<img src="https://img.shields.io/badge/GRPC-00ADD8?style=for-the-badge&logo=&logoColor=black"> 
 
 ### 👉 Contacts
 

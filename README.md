@@ -44,6 +44,8 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 
 <img src="https://img.shields.io/badge/GRPC-00ADD8?style=for-the-badge&logo=&logoColor=black"> 
 
+<img src="https://img.shields.io/badge/Hibernate Reactive-4479A1?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin JDSL-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
+
 ### 👉 Contacts
 
 🌲 Velog : <https://velog.io/@18k7102dy>

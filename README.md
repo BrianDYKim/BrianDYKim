@@ -42,7 +42,7 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 
 <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black"> 
 
-<img src="https://img.shields.io/badge/GRPC-00ADD8?style=for-the-badge&logo=&logoColor=black"> 
+<img src="https://img.shields.io/badge/GRPC-00ADD8?style=for-the-badge&logo=&logoColor=black"> <img src="https://img.shields.io/badge/Kafka Consumer Proxy-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
 
 <img src="https://img.shields.io/badge/Hibernate Reactive-4479A1?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin JDSL-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
 

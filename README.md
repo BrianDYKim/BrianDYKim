@@ -36,6 +36,8 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 
 <img src="https://img.shields.io/badge/GRPC-00ADD8?style=for-the-badge&logo=&logoColor=black"> <img src="https://img.shields.io/badge/Armeria-F75690?style=for-the-badge&logo=armeria&logoColor=black"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=black"> 
 
+<img src="https://img.shields.io/badge/AWS EC2-FFB71B?style=for-the-badge&logo=Amazon AWS&logoColor=black"> <img src="https://img.shields.io/badge/AWS ROUTE53-FFB71B?style=for-the-badge&logo=Amazon AWS&logoColor=black"> <img src="https://img.shields.io/badge/AWS RDS-FFB71B?style=for-the-badge&logo=Amazon AWS&logoColor=black"> <img src="https://img.shields.io/badge/AWS BEANSTALK-FFB71B?style=for-the-badge&logo=Amazon AWS&logoColor=black"> <img src="https://img.shields.io/badge/AWS ECR-FFB71B?style=for-the-badge&logo=Amazon AWS&logoColor=black">
+
 3️⃣ Techs that are not familiar with me now (used at least once)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black">
@@ -49,8 +51,6 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 
 <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black"> 
-
-<img src="https://img.shields.io/badge/Kafka Consumer Proxy-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
 
 ### 👉 Contacts
 

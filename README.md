@@ -12,11 +12,13 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 
 👉 Graduated at Pohang Yeoungsin high-school (2014~2017)
 
-👉 Majoring **Mathematics** in University (2017 ~ )
+👉 Majoring **Mathematics** in University (2017 ~ 2023)
 
-👉 Double majoring **Computer Engineering** in University (2018 ~ )
+👉 Double majoring **Computer Engineering** in University (2018 ~ 2023)
 
-👉 Developing and operating server of **WithMarket** in Team Bakkas (2022 ~ )
+👉 Developing and operating server of **WithMarket** in Team Bakkas (2022)
+
+👉 **Elice AI Track** 6th gen (2022.12 ~ 2023.05)
 
 ### 🔥 My Tech Stack
 

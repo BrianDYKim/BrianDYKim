@@ -24,7 +24,7 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 
 1️⃣ My main languages
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black"> <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=Javascript&logoColor=white">
 
 2️⃣ Techs using as main
 

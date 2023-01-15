@@ -56,6 +56,8 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 
 🌲 Velog : <https://velog.io/@18k7102dy>
 
+👉 Blog : <https://doccimann.com>
+
 ✉️ Email : 18k7102dy@gmail.com
 
 ### 🔥 My Git Stats

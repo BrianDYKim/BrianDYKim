@@ -20,7 +20,7 @@ Hello, I'm Backend Developer. I'm just enjoying studying new technologies about 
 
 👉 Developing and operating server of **WithMarket** in Team Bakkas (2022)
 
-👉 **Elice AI Track** 6th gen (2022.12 ~ 2023.05)
+👉 **Elice AI Track** 6th racer (2022.12 ~ 2023.05)
 
 ### 🔥 My Tech Stack
 

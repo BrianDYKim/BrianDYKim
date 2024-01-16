@@ -7,7 +7,7 @@ Will be the best backend engineer in South Korea.
 
 👉 Elice AI Track 6th racer (2022.12 ~ 2023.05)
 
-👉 Backend Engineer with **Tutoring** (2023.07 ~ )
+👉 Backend Engineer with **Tutoring** (2023.07 ~ ) -> **Super Rookie of 2023**
 
 ### 🔥 My Tech Stack
 

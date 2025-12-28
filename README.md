@@ -15,4 +15,4 @@ Will be the best backend engineer in South Korea.
 
 👉 기능, 배달왔습니다! BE 개발자가 말아주는 Feature Delivery 발표 (2025.12.13) - Tech Friends Mixer 2025
 
-👉 2025 유스콘 멘토
+👉 2025 유스콘 멘토 (2025.12.27)

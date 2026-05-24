@@ -17,4 +17,4 @@ Will be the best backend engineer in South Korea.
 
 👉 2025 유스콘 멘토 (2025.12.27)
 
-👉 Qwen Meetup Korea #2 with TFM co-host (2026.04.30)
+👉 co-host of Qwen Meetup Korea #2 with TFM (2026.04.30)

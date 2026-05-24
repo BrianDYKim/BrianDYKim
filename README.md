@@ -9,10 +9,12 @@ Will be the best backend engineer in South Korea.
 
 👉 Backend Engineer with **Lingora Tutoring & AI** (2023.07 ~ )
 
-👉 Organizer of Tech Friends Mixer 2025 (2025.12.13)
+👉 Organizer of TFM Conference 2025 (2025.12.13 ~ Present)
 
 ### Activities
 
 👉 기능, 배달왔습니다! BE 개발자가 말아주는 Feature Delivery 발표 (2025.12.13) - Tech Friends Mixer 2025
 
 👉 2025 유스콘 멘토 (2025.12.27)
+
+👉 Qwen Meetup Korea #2 with TFM co-host (2026.04.30)
